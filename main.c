@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-int main()
+int main() //AS20250532
 {
 int totalMarks,mathematics,science,english;
 float averageMarks;
